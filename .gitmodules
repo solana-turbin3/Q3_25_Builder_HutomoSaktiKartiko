@@ -1,0 +1,6 @@
+[submodule "prereq-ts"]
+	path = prereq-ts
+	url = https://github.com/hutomosaktikartiko/turbin3-prereq-ts.git
+[submodule "prereq-rs"]
+	path = prereq-rs
+	url = https://github.com/hutomosaktikartiko/turbin3-prereq-rs.git
