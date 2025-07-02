@@ -4,3 +4,6 @@
 [submodule "prereq-rs"]
 	path = prereq-rs
 	url = https://github.com/hutomosaktikartiko/turbin3-prereq-rs.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/hutomosaktikartiko/turbin3-solana-starter.git
