@@ -13,6 +13,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/hutomosaktikartiko/anchor-escrow.git
-[submodule "turbin3-anchor-amm"]
+[submodule "anchor-amm"]
 	path = turbin3-anchor-amm
 	url = https://github.com/hutomosaktikartiko/turbin3-anchor-amm.git
