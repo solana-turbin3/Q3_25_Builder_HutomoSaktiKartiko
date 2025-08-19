@@ -19,3 +19,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/hutomosaktikartiko/turbin3-anchor-nft-martketplace
+[submodule "capstone-project"]
+	path = capstone-project
+	url = https://github.com/hutomosaktikartiko/wasiat-online
